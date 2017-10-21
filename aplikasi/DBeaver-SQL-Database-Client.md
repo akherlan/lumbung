@@ -1,7 +1,7 @@
 # DBeaver 
 DBeaver adalah aplikasi SQL Client multi platform yang berbasis Eclipse IDE.
 
-![Tampilan ERD](gambar/aplikasi/dbeaver/ERD.png)
+![Tampilan ERD](../gambar/aplikasi/dbeaver/ERD.png)
 
 Salah satu keunggulan aplikasi ini adalah mendukung banyak SQL Client, sehingga cukup memasang satu aplikasi untuk mengatur banyak jenis database SQL. Tidak hanya itu, karena aplikasi **DBeaver** berbasis Eclipse membuatnya dapat dijalankan di banyak Sistem Operasi.
 
