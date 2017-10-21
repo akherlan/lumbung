@@ -1,6 +1,9 @@
 # Lumbung
 Repositori ini merupakan sarana berkontribusi untuk komunitas Belajar GNU/Linux Indonesia (BGLI) Telegram.
 
+## Daftar Isi
+Untuk melihat keseluruhan isi di lumbung ini, silahkan merujuk **[Daftar Isi](Daftar-isi.md)**
+
 ## Latar Belakang
 Jumlah dokumentasi terkait pertanyaan yang pernah didiskusikan di ruang obrolan/grup tidak seimbang dengan jumlah anggota yang tergabung di ruang obrolan BGLI. Akibatnya sangat mungkin terjadi pengulangan pembahasan dengan topik yang sama. Di sisi lain, dengan jumlah anggota yang semakin meningkat, perlu adanya edukasi terhadap para anggota BGLI agar "melek" terhadap sistem kontribusi yang memang sangat karib digunakan dalam dunia _Free/Libre Open Source Software_.
 ## Tujuan
